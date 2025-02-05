@@ -1,0 +1,402 @@
+[
+    {
+      "id": 1,
+      "nome": "Tech Solutions",
+      "cidade": "Fortaleza",
+      "area": "Tecnologia",
+      "instagram": "@techsolutions",
+      "telefone": "(85) 99999-9999"
+    },
+    {
+      "id": 2,
+      "nome": "Auto Peças Brasil",
+      "cidade": "São Paulo",
+      "area": "Automotivo",
+      "instagram": "@autobr",
+      "telefone": "(11) 98888-8888"
+    },
+    {
+      "id": 3,
+      "nome": "Green Agro",
+      "cidade": "Fortaleza",
+      "area": "Agronegócio",
+      "instagram": "@greenagro",
+      "telefone": "(85) 97777-7777"
+    },
+    {
+      "id": 4,
+      "nome": "Smart Finance",
+      "cidade": "São Paulo",
+      "area": "Finanças",
+      "instagram": "@smartfinance",
+      "telefone": "(11) 95555-5555"
+    },
+    {
+      "id": 5,
+      "nome": "Health Plus",
+      "cidade": "Sobral",
+      "area": "Saúde",
+      "instagram": "@healthplus",
+      "telefone": "(88) 94444-4444"
+    },
+    {
+      "id": 6,
+      "nome": "EduTech",
+      "cidade": "Fortaleza",
+      "area": "Educação",
+      "instagram": "@edutech",
+      "telefone": "(85) 93333-3333"
+    },
+    {
+      "id": 7,
+      "nome": "Fashion Trends",
+      "cidade": "São Paulo",
+      "area": "Moda",
+      "instagram": "@fashiontrends",
+      "telefone": "(11) 92222-2222"
+    },
+    {
+      "id": 8,
+      "nome": "LogiMove",
+      "cidade": "Sobral",
+      "area": "Logística",
+      "instagram": "@logimove",
+      "telefone": "(88) 91111-1111"
+    },
+    {
+      "id": 9,
+      "nome": "Foodie Delight",
+      "cidade": "Fortaleza",
+      "area": "Alimentação",
+      "instagram": "@foodiedelight",
+      "telefone": "(85) 90000-0000"
+    },
+    {
+      "id": 10,
+      "nome": "Clean Energy",
+      "cidade": "São Paulo",
+      "area": "Energia",
+      "instagram": "@cleanenergy",
+      "telefone": "(11) 98888-7777"
+    },
+    {
+      "id": 11,
+      "nome": "Tech Innovate",
+      "cidade": "Fortaleza",
+      "area": "Tecnologia",
+      "instagram": "@techinnovate",
+      "telefone": "(85) 97777-6666"
+    },
+    {
+      "id": 12,
+      "nome": "Auto Parts Plus",
+      "cidade": "Sobral",
+      "area": "Automotivo",
+      "instagram": "@autopartsplus",
+      "telefone": "(88) 96666-5555"
+    },
+    {
+      "id": 13,
+      "nome": "Agro Future",
+      "cidade": "Fortaleza",
+      "area": "Agronegócio",
+      "instagram": "@agrofuture",
+      "telefone": "(85) 95555-4444"
+    },
+    {
+      "id": 14,
+      "nome": "Money Matters",
+      "cidade": "São Paulo",
+      "area": "Finanças",
+      "instagram": "@moneymatters",
+      "telefone": "(11) 94444-3333"
+    },
+    {
+      "id": 15,
+      "nome": "MediCare",
+      "cidade": "Sobral",
+      "area": "Saúde",
+      "instagram": "@medicare",
+      "telefone": "(88) 93333-2222"
+    },
+    {
+      "id": 16,
+      "nome": "EduFuture",
+      "cidade": "Fortaleza",
+      "area": "Educação",
+      "instagram": "@edufuture",
+      "telefone": "(85) 92222-1111"
+    },
+    {
+      "id": 17,
+      "nome": "Trendy Styles",
+      "cidade": "São Paulo",
+      "area": "Moda",
+      "instagram": "@trendystyles",
+      "telefone": "(11) 91111-0000"
+    },
+    {
+      "id": 18,
+      "nome": "Quick Logistics",
+      "cidade": "Sobral",
+      "area": "Logística",
+      "instagram": "@quicklogistics",
+      "telefone": "(88) 90000-9999"
+    },
+    {
+      "id": 19,
+      "nome": "Tasty Bites",
+      "cidade": "Fortaleza",
+      "area": "Alimentação",
+      "instagram": "@tastybites",
+      "telefone": "(85) 98888-8888"
+    },
+    {
+      "id": 20,
+      "nome": "Solar Power",
+      "cidade": "São Paulo",
+      "area": "Energia",
+      "instagram": "@solarpower",
+      "telefone": "(11) 97777-7777"
+    },
+    {
+      "id": 21,
+      "nome": "Code Masters",
+      "cidade": "Fortaleza",
+      "area": "Tecnologia",
+      "instagram": "@codemasters",
+      "telefone": "(85) 96666-6666"
+    },
+    {
+      "id": 22,
+      "nome": "Car Care",
+      "cidade": "São Paulo",
+      "area": "Automotivo",
+      "instagram": "@carcare",
+      "telefone": "(11) 95555-5555"
+    },
+    {
+      "id": 23,
+      "nome": "AgroTech",
+      "cidade": "Sobral",
+      "area": "Agronegócio",
+      "instagram": "@agrotech",
+      "telefone": "(88) 94444-4444"
+    },
+    {
+      "id": 24,
+      "nome": "Wealth Builders",
+      "cidade": "São Paulo",
+      "area": "Finanças",
+      "instagram": "@wealthbuilders",
+      "telefone": "(11) 93333-3333"
+    },
+    {
+      "id": 25,
+      "nome": "Health First",
+      "cidade": "Fortaleza",
+      "area": "Saúde",
+      "instagram": "@healthfirst",
+      "telefone": "(85) 92222-2222"
+    },
+    {
+      "id": 26,
+      "nome": "EduSmart",
+      "cidade": "Sobral",
+      "area": "Educação",
+      "instagram": "@edusmart",
+      "telefone": "(88) 91111-1111"
+    },
+    {
+      "id": 27,
+      "nome": "Chic Trends",
+      "cidade": "São Paulo",
+      "area": "Moda",
+      "instagram": "@chictrends",
+      "telefone": "(11) 90000-0000"
+    },
+    {
+      "id": 28,
+      "nome": "Fast Move",
+      "cidade": "Fortaleza",
+      "area": "Logística",
+      "instagram": "@fastmove",
+      "telefone": "(85) 98888-7777"
+    },
+    {
+      "id": 29,
+      "nome": "Yummy Foods",
+      "cidade": "Sobral",
+      "area": "Alimentação",
+      "instagram": "@yummyfoods",
+      "telefone": "(88) 97777-6666"
+    },
+    {
+      "id": 30,
+      "nome": "Eco Energy",
+      "cidade": "São Paulo",
+      "area": "Energia",
+      "instagram": "@ecoenergy",
+      "telefone": "(11) 96666-5555"
+    },
+    {
+      "id": 31,
+      "nome": "Data Wizards",
+      "cidade": "Fortaleza",
+      "area": "Tecnologia",
+      "instagram": "@datawizards",
+      "telefone": "(85) 95555-4444"
+    },
+    {
+      "id": 32,
+      "nome": "Auto Fix",
+      "cidade": "São Paulo",
+      "area": "Automotivo",
+      "instagram": "@autofix",
+      "telefone": "(11) 94444-3333"
+    },
+    {
+      "id": 33,
+      "nome": "Agro Solutions",
+      "cidade": "Sobral",
+      "area": "Agronegócio",
+      "instagram": "@agrosolutions",
+      "telefone": "(88) 93333-2222"
+    },
+    {
+      "id": 34,
+      "nome": "Finance Pro",
+      "cidade": "São Paulo",
+      "area": "Finanças",
+      "instagram": "@financepro",
+      "telefone": "(11) 92222-1111"
+    },
+    {
+      "id": 35,
+      "nome": "Care Plus",
+      "cidade": "Fortaleza",
+      "area": "Saúde",
+      "instagram": "@careplus",
+      "telefone": "(85) 91111-0000"
+    },
+    {
+      "id": 36,
+      "nome": "EduTech Plus",
+      "cidade": "Sobral",
+      "area": "Educação",
+      "instagram": "@edutechplus",
+      "telefone": "(88) 90000-9999"
+    },
+    {
+      "id": 37,
+      "nome": "Fashion Hub",
+      "cidade": "São Paulo",
+      "area": "Moda",
+      "instagram": "@fashionhub",
+      "telefone": "(11) 98888-8888"
+    },
+    {
+      "id": 38,
+      "nome": "Swift Logistics",
+      "cidade": "Fortaleza",
+      "area": "Logística",
+      "instagram": "@swiftlogistics",
+      "telefone": "(85) 97777-7777"
+    },
+    {
+      "id": 39,
+      "nome": "Delicious Eats",
+      "cidade": "Sobral",
+      "area": "Alimentação",
+      "instagram": "@deliciouseats",
+      "telefone": "(88) 96666-6666"
+    },
+    {
+      "id": 40,
+      "nome": "Green Power",
+      "cidade": "São Paulo",
+      "area": "Energia",
+      "instagram": "@greenpower",
+      "telefone": "(11) 95555-5555"
+    },
+    {
+      "id": 41,
+      "nome": "Tech Genius",
+      "cidade": "Fortaleza",
+      "area": "Tecnologia",
+      "instagram": "@techgenius",
+      "telefone": "(85) 94444-4444"
+    },
+    {
+      "id": 42,
+      "nome": "Auto Experts",
+      "cidade": "São Paulo",
+      "area": "Automotivo",
+      "instagram": "@autoexperts",
+      "telefone": "(11) 93333-3333"
+    },
+    {
+      "id": 43,
+      "nome": "Agro Vision",
+      "cidade": "Sobral",
+      "area": "Agronegócio",
+      "instagram": "@agrovision",
+      "telefone": "(88) 92222-2222"
+    },
+    {
+      "id": 44,
+      "nome": "Money Wise",
+      "cidade": "São Paulo",
+      "area": "Finanças",
+      "instagram": "@moneywise",
+      "telefone": "(11) 91111-1111"
+    },
+    {
+      "id": 45,
+      "nome": "Health Hub",
+      "cidade": "Fortaleza",
+      "area": "Saúde",
+      "instagram": "@healthhub",
+      "telefone": "(85) 90000-0000"
+    },
+    {
+      "id": 46,
+      "nome": "EduVision",
+      "cidade": "Sobral",
+      "area": "Educação",
+      "instagram": "@eduvision",
+      "telefone": "(88) 98888-7777"
+    },
+    {
+      "id": 47,
+      "nome": "Style Trends",
+      "cidade": "São Paulo",
+      "area": "Moda",
+      "instagram": "@styletrends",
+      "telefone": "(11) 97777-6666"
+    },
+    {
+      "id": 48,
+      "nome": "Quick Move",
+      "cidade": "Fortaleza",
+      "area": "Logística",
+      "instagram": "@quickmove",
+      "telefone": "(85) 96666-5555"
+    },
+    {
+      "id": 49,
+      "nome": "Tasty Treats",
+      "cidade": "Sobral",
+      "area": "Alimentação",
+      "instagram": "@tastytreats",
+      "telefone": "(88) 95555-4444"
+    },
+    {
+      "id": 50,
+      "nome": "Eco Solutions",
+      "cidade": "São Paulo",
+      "area": "Energia",
+      "instagram": "@ecosolutions",
+      "telefone": "(11) 94444-3333"
+    }
+  ]
